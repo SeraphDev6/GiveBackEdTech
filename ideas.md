@@ -2,7 +2,7 @@
 
 ## PROBLEMS
 
-- Data is hard to come by and dirty, or is not univerasally applicable
+- Data is hard to come by and dirty, or is not universally applicable
 - Analysis of data adds an additional task to teachers
 
 ## IDEAS
